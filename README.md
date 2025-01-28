@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Satochi001
-- 👀 I’m interested in  software enginering cool projects.
-- 🌱 I’m currently learning  vue.js , node.js, typescript , flutter dart ...
-- 💞️ I’m looking to collaborate with fellow like minded people...
-- 📫 How to reach me : twitter account => @emmytech
+ 
+👋 Hi, I’m @Satochi001
 
-<!---
-Satochi001/Satochi001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 About Me
+
+I’m a passionate Software Engineer interested in working on cool and innovative projects. I enjoy solving complex problems and building scalable applications.
+
+🚀 What I’m Learning
+
+I’m currently expanding my skills in:
+	•	Frontend: Vue.js, TypeScript
+	•	Backend: Node.js
+	•	Mobile Development: Flutter & Dart
+
+🤝 Looking to Collaborate
+
+I’m open to collaborating with like-minded developers on exciting projects. 
+If you’re working on something interesting, feel free to reach out!
+
+📫 Connect with Me
+
+Twitter: @emmytech
+
