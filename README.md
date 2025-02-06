@@ -9,7 +9,7 @@ I’m a passionate Software Engineer interested in working on cool and innovativ
 
 I’m currently expanding my skills in:
 	•	Frontend: Vue.js, TypeScript
-	•	Backend: Node.js
+	•	Backend: Node.js , express.js 
 	•	Mobile Development: Flutter & Dart
 
 🤝 Looking to Collaborate
@@ -20,4 +20,6 @@ If you’re working on something interesting, feel free to reach out!
 📫 Connect with Me
 
 Twitter: @emmytech
+email: @abanobie01@gmail.com
+linkdin: @emmytech. 
 
