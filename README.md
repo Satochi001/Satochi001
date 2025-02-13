@@ -20,9 +20,11 @@ If you’re working on something interesting, feel free to reach out!
 📫 Connect with Me
 
 Twitter: @emmytech
-email: @abanobie01@gmail.com
+Email address: @abanobie01@gmail.com
 linkdin: @emmytech. 
 
 
-🖥️⭕️🖥️
+
+
+
 
