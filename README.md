@@ -8,9 +8,9 @@ I’m a passionate Software Engineer interested in working on cool and innovativ
 🚀 What I’m Learning
 
 I’m currently expanding my skills in:
-	•	Frontend: Vue.js, TypeScript
-	•	Backend: Node.js , express.js 
-	•	Mobile Development: Flutter & Dart
+	• Frontend: Vue.js, TypeScript
+	• Backend: Node.js , express.js 
+	• Mobile Development: Flutter & Dart
 
 🤝 Looking to Collaborate
 
