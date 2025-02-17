@@ -11,8 +11,9 @@ I’m currently expanding my skills in:
 	• Frontend: Vue.js, TypeScript
 	• Backend: Node.js , express.js 
 	• Mobile Development: Flutter & Dart
+    
 
-🤝 Looking to Collaborate
+🤝 Looking to Collaborate greater  mind 
 
 I’m open to collaborating with like-minded developers on exciting projects. 
 If you’re working on something interesting, feel free to reach out!
