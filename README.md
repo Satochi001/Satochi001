@@ -13,7 +13,7 @@ I’m currently expanding my skills in:
 	• Mobile Development: Flutter & Dart
     
 
-🤝 Looking to Collaborate greater  mind 
+🤝 Looking to Collaborate with greater minds
 
 I’m open to collaborating with like-minded developers on exciting projects. 
 If you’re working on something interesting, feel free to reach out!
