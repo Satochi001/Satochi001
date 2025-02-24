@@ -23,6 +23,7 @@ If you’re working on something interesting, feel free to reach out!
 Twitter: @emmytech
 Email address: @abanobie01@gmail.com
 linkdin: @emmytech. 
+instagram: @softwareguy
 
 
 
