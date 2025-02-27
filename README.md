@@ -20,7 +20,6 @@ If you’re working on something interesting, feel free to reach out!
 
 📫 Connect with Me
 
-Twitter: Emmytech @gg8866401
 Email address: @abanobie01@gmail.com
 linkdin: @emmytech. 
 instagram: @softwareguy
