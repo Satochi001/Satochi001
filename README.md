@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Satochi001
 
 ## About Me
-I'm a versatile Full Stack Developer and Cybersecurity Consultant with a passion for building innovative, scalable applications. With a strong foundation in web and mobile development, I thrive on solving complex problems and pushing the boundaries of technology.
+I'm a versatile Full Stack Developer and a Consultant with a passion for building innovative, scalable applications. With a strong foundation in web and mobile development, I thrive on solving complex problems and pushing the boundaries of technology.
 
 ## What I Do
 - **Full Stack Development:**  
