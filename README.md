@@ -1,75 +1,52 @@
 
 
-# 👋 Hi, I’m @Satochi001
 
-![Banner]\([https://raw.githubusercontent.com/Satochi001/Satochi001/main/assets/banner.png](https://raw.githubusercontent.com/Satochi001/Satochi001/main/assets/banner.png))
+<h1 align="center">Hi 👋, I'm Satochi001</h1>
+<h3 align="center">A Full Stack Developer & Consultant passionate about building innovative, scalable applications.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Satochi001&label=Profile%20views&color=0e75b6&style=flat" alt="Satochi001" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Satochi001" alt="Satochi001" /></a> </p>
 
-## 🚀 About Me
+- 🔭 I’m currently working on [Destination App](https://github.com/Satochi001/destination-app)
 
-I’m a **Full Stack Developer & Consultant** passionate about building innovative, scalable applications. With expertise in **web, mobile, and decentralized technologies**, I thrive on solving complex problems and pushing the boundaries of technology.
+- 🌱 I’m currently learning **AI, System Design, Advanced Algorithms**
 
-## 🛠️ Tech Stack
+- 👯 I’m looking to collaborate on **Full Stack Development, automation, and web3 projects.**
 
-![Satochi001's GitHub Stats]\([https://github-readme-stats.vercel.app/api?username=Satochi001&show\_icons=true&theme=tokyonight&cache\_seconds=1800](https://github-readme-stats.vercel.app/api?username=Satochi001\&show_icons=true\&theme=tokyonight\&cache_seconds=1800))
+- 💬 Ask me about **Vue.js, Node.js, Web3, and Full Stack Development**
 
+- 📫 How to reach me **abanobie01@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/emmytech" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.instagram.com/softwareguy" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/> </a>
+</p>
 
-## 💻 What I Do
+<h3 align="left">Tech Stack:</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</p>
 
-### **Full Stack Development**
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Satochi001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Satochi001" /></a></p><br><br>
 
-- **Frontend:** Vue.js, Nuxt.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL
-- **Mobile:** Flutter & Dart, iOS Development
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satochi001&show_icons=true&locale=en&layout=compact" alt="Satochi001" /></p>
 
-### **Web3 & Security**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satochi001&show_icons=true&locale=en" alt="Satochi001" /></p>
 
-- Exploring decentralized applications and blockchain solutions
-- Strong background in securing applications and network infrastructures
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satochi001&" alt="Satochi001" /></p>
 
-### **DevOps & Cloud**
-
-- CI/CD with **GitHub Actions**
-- Cloud services: **AWS, Firebase, SQL**
-- Agile development with **JIRA**
-
-## 📊 Most Used Language
-
-
-
-![Top Langs]\([https://github-readme-stats.vercel.app/api/top-langs/?username=Satochi001&layout=compact&theme=tokyonight&cache\_seconds=1800](https://github-readme-stats.vercel.app/api/top-langs/?username=Satochi001\&layout=compact\&theme=tokyonight\&cache_seconds=1800))
-
-## 🌟 Featured Project
-
-### **Destination App** 🚀
-
-- **Dynamic & Interactive Travel Platform** with real-time geolocation & mapping
-- Future-ready for **full database integration** and **advanced analytics**
-- Driven by user-centric research and innovative UX design
-
-## ☕ Support My Work
-
-If you like my projects and contributions, consider buying me a coffee!
-
-
-
-## 📬 Connect with Me
-
-📧 [abanobie01@gmail.com](mailto\:abanobie01@gmail.com)\
-💼 [LinkedIn: emmytech](https://www.linkedin.com/in/emmytech)\
-📸 [Instagram: softwareguy](https://www.instagram.com/softwareguy)
-
-## 🏆 GitHub Contribution Streak
-
-![Snake animation]\([https://github.com/Satochi001/Satochi001/raw/output/github-contribution-grid-snake.svg](https://github.com/Satochi001/Satochi001/raw/output/github-contribution-grid-snake.svg))
-
-
-
-
-
----
 
 💡 *Always be the best you can be – because your potential is limitless.*
 
