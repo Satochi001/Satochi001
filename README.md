@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AI, System Design, Advanced Algorithms**
 
-- 👯 I’m looking to collaborate on **backend, frontend or any Full Stack Development and ai  automation project. **
+- 👯 I’m looking to collaborate on **Backend, Frontend or any Full Stack Development and Ai/Automation project. **
 
 - 💬 Ask me about **Vue.js, Node.js, postgress, and Full Stack Development**
 
