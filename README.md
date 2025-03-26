@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **AI, System Design, Advanced Algorithms**
 
-- 👯 I’m looking to collaborate on **Full Stack Development, automation, and web3 projects.**
+- 👯 I’m looking to collaborate on **backend, frontend or any Full Stack Development and ai  automation project. **
 
-- 💬 Ask me about **Vue.js, Node.js, Web3, and Full Stack Development**
+- 💬 Ask me about **Vue.js, Node.js, postgress, and Full Stack Development**
 
 - 📫 How to reach me **abanobie01@gmail.com**
 
