@@ -23,8 +23,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
 </a>
 <a href="https://twitter.com/gg8866401" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg" width="40" height="40" alt="Twitter/X"/>
+    <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" width="40" height="40" alt="Twitter/X"/>
 </a>
+
 
 
 
@@ -51,9 +52,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satochi001&show_icons=true&locale=en" alt="Satochi001" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satochi001&show_icons=true&theme=dark" alt="Satochi001" />
-</p>
+
 
 
 💡 *Always be the best you can be – because your potential is limitless.*
