@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">Hi 👋, I'm EMY4DEV</h1>
 <h3 align="center">A Full Stack Developer & Consultant passionate about building innovative, scalable applications.</h3>
 
@@ -21,7 +19,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abanobi-emmanuel-490890246/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.instagram.com/software_guy" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.instagram.com/software_guy" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
+</a>
+
+
 </p>
 
 <h3 align="left">Tech Stack:</h3>
@@ -45,8 +47,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satochi001&show_icons=true&locale=en" alt="Satochi001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satochi001&" alt="Satochi001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satochi001&theme=dark" alt="Satochi001" /></p>
 
 
 💡 *Always be the best you can be – because your potential is limitless.*
+
 
