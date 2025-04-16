@@ -55,6 +55,6 @@
 
 
 
-💡 *Always be the best you can be – because your potential is limitless.*
+💡 * Always be the best you can be – because your potential is limitless. *
 
 
