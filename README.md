@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm EMY4DEV</h1>
-<h3 align="center">A Full Stack Developer & Consultant passionate about building innovative, scalable applications.</h3>
+<h3 align="center">A Full Stack Developer, Consultant passionate about building innovative, scalable applications & AI Researcher .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satochi001&label=Profile%20views&color=0e75b6&style=flat" alt="Satochi001" /> </p>
 
