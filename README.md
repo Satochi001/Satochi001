@@ -55,6 +55,7 @@
 
 
 
-💡 * I see technology as an hobbie / Always be the best you can be – because your potential is limitless. *
+💡 ** I see technology as an hobbie ***
+ 😇 * Always be the best you can be – because your potential is limitless. *
 
 
