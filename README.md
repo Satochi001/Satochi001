@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Backend, Frontend or any Full Stack Development and Ai/Automation project. **
 
-- 💬 Askme about ** Full Stack Development, deep learning/nueral network and  databases**
+- 💬 Ask me about ** Full Stack Development, deep learning/nueral network and  databases**
 
 - 📫 How to reach me **abanobie01@gmail.com**
 
