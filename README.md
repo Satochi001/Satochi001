@@ -26,9 +26,6 @@
     <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" width="40" height="40" alt="Twitter/X"/>
 </a>
 
-
-
-
 </p>
 
 <h3 align="left">Tech Stack:</h3>
