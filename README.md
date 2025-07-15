@@ -25,7 +25,6 @@
 <a href="https://twitter.com/gg8866401"target="_blank"> 
     <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" width="40" height="40" alt="Twitter/X"/>
 </a>
-
 </p>
 
 <h3 align="left">Tech Stack:</h3>
@@ -48,8 +47,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satochi001&show_icons=true&locale=en&layout=compact" alt="Satochi001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satochi001&show_icons=true&locale=en" alt="Satochi001" /></p>
-
-
 
 
 💡 ** I see technology as an hobbie **
