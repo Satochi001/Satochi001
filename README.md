@@ -49,7 +49,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satochi001&show_icons=true&locale=en" alt="Satochi001" /></p>
 
 
-💡 ** I see technology as an hobbie **
+💡 * I see technology as an hobbie *
 
 😇 * Always be the best you can be – because your potential is limitless. *
 
