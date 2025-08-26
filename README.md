@@ -2,7 +2,7 @@
 <h1 align="center"> EMY4DEV</h1>
 <h3 align="center">A Full Stack Developer, passionate about building innovative, scalable applications & AI Researcher.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Satochi001&label=Profile%20views&color=0e75b6&style=flat" alt="Satochi001" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Satochi001&label=Profile%20views&color=0e75b6&style=flat" alt="Satochi001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Satochi001" alt="Satochi001" /></a> </p>
 
