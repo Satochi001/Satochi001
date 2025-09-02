@@ -27,7 +27,6 @@
 </a>
 </p>
 
-
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
