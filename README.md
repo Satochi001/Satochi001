@@ -1,4 +1,4 @@
-
+moi
 <h1 align="center"> EMY4DEV</h1>
 <h3 align="center">A Full Stack Developer, passionate about building innovative, scalable applications & AI Researcher.</h3>
 
@@ -50,6 +50,7 @@
 
 
 💡 * I see technology as an hobbie *
+
 😇 * Always be the best you can be – because your potentials are  limitless. *
 
 
