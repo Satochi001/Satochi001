@@ -6,7 +6,6 @@ moi
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Satochi001&label=Profile%20views&color=0e75b6&style=flat" alt="Satochi001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Satochi001" alt="Satochi001" /></a> </p>
-
 - 🔭 I’m currently working on [Travel Now](https://github.com/Satochi001/destination-app)
 
 - 🌱 I’m currently learning **AI, System Design, Advanced Algorithms**
