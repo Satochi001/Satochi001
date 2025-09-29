@@ -14,6 +14,7 @@ moi
 - 👯 I’m looking to collaborate on **Backend, Frontend or any Full Stack Development and Ai/Automation project. **
 
 - 💬 Ask me about ** Full Stack Development, deep learning/nueral network and  databases**
+
 - 📫 How to reach me ** abanobie01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
