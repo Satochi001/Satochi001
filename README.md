@@ -11,7 +11,7 @@ moi
 
 - 🌱 I’m currently learning **AI, System Design, Advanced Algorithms**
 
-- 👯 I’m looking to collaborate on **Backend, Frontend or any Full Stack Development and Ai/Automation project. **
+- 👯 I’m looking to collaborate on **Backend, Frontend or any Full Stack Development and Ai/Automation project.  **
 
 - 💬 Ask me about ** Full Stack Development, deep learning/nueral network and  databases**
 
