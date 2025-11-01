@@ -19,7 +19,6 @@ moi
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  
   <a href="https://www.linkedin.com/in/abanobi-emmanuel-490890246/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> </a>
   <a href="https://www.instagram.com/software_guy" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
